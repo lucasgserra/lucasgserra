@@ -1,1 +1,2 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgserra&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+![Github Stats](https://greptile-stats.vercel.app/api/widget/lucasgserra/stats)
+![Github Highlights](https://greptile-stats.vercel.app/api/widget/lucasgserra/highlights)
