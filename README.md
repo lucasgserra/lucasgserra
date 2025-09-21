@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgserra&size_weight=0.5&count_weight=0.5&custom_title=Linguagens%20mais%20usadas)](https://github.com/lucasgserra/github-readme-stats)
